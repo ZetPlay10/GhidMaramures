@@ -67,4 +67,6 @@ flowchart TD
 
 ## Capturi de ecran
 
-Vezi folderul [`screenshots/`](screenshots/).
+| Login | Listă | Detaliu | Favorite | Despre |
+|---|---|---|---|---|
+| <img src="screenshots/01_login.png" width="160"> | <img src="screenshots/02_lista.png" width="160"> | <img src="screenshots/03_detaliu.png" width="160"> | <img src="screenshots/04_favorite.png" width="160"> | <img src="screenshots/05_despre.png" width="160"> |
